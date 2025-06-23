@@ -8,7 +8,7 @@
 
 ---
 
-### 🔥 About Me
+🔥 About Me
 - 👨‍💻 Passionate about coding, automation, and modern infrastructure.
 - ☁️ Hands-on experience with **AWS**, **GCP**, and **Azure** cloud platforms.
 - 🛠️ Master of **25+ DevOps tools**, microservices, full-stack development, and multi-cloud architecture.
