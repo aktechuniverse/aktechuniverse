@@ -81,14 +81,14 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek123&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek123&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aktechuniverse&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktechuniverse&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 
 ---
 
 ### 📫 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 💼 [LinkedIn](https://)
 - 🌐 [Portfolio](https://yourwebsite.com)
 - ✉️ Email: aktechuniverse@gmail.com
 - 📞 Phone: +91-7739441777*(optional)*
