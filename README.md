@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-<!--
+
 **aktechuniverse/aktechuniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">💻 Full Stack Developer | 🚀 DevOps & Cloud Engineer | 🧑‍🏫 Trainer & Mentor | 🇮🇳 India</h3>
 
----
+
 
 🔥 About Me
 - 👨‍💻 Passionate about coding, automation, and modern infrastructure.
